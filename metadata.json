@@ -1,0 +1,5 @@
+{
+  "name": "Red Bulk",
+  "description": "A high-contrast fitness application that curates personalized workout video playlists based on user bulking goals via an n8n webhook.",
+  "requestFramePermissions": []
+}
